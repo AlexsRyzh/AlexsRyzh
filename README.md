@@ -19,7 +19,11 @@
 
 - 💬 I'm open for job opportunities aswell as project collabs
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-alexsandr-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@AlexsRyz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexsandr.ryzhkov04@gmail.com)
+---
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
+
+<a href="mailto:alexsandr.ryzhkov04@gmail.com"><img src='https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png' width="50px"></a>
+<a href="https://t.me/@AlexsRyz"><img src='https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png' width="50px"></a> 
 
   
 
@@ -47,17 +51,6 @@
 ---
 
   ### 💻 Backend:
-https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg
-
-https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg
-
-https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg
-
-https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg
-
-https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg
-
-https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg
 
 
 <div>
