@@ -28,7 +28,6 @@
   
 
 ### 💻 Frontend:
-
   
 
 <div>
@@ -40,6 +39,7 @@
 <img  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="react"  alt="react"  width="40"  height="40"/>
 <img  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"  title="nodejs"  alt="nodejs"  width="40"  height="40"/>
 <img  src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  title="next"  alt="next"  width="40"  height="40"/>
+<img  src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="redux"  alt="redux"  width="40"  height="40"/>
 </div>
 
   
@@ -47,13 +47,40 @@
 ---
 
   ### 💻 Backend:
+https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg
 
-  
+https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg
+
+https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg
+
+https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg
+
+https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg
+
+https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg
+
 
 <div>
-<img  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="git"  alt="git"  width="40"  height="40"/>
+<img  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="python"  alt="python"  width="40"  height="40"/>
 &nbsp
-<img  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="git"  alt="git"  width="40"  height="40"/>
+<img  src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"  title="go"  alt="go"  width="40"  height="40"/>
+&nbsp
+<img  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="java"  alt="java"  width="40"  height="40"/>
+&nbsp
+<img  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="mysql"  alt="mysql"  width="40"  height="40"/>
+&nbsp
+<img  src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  title="postgresql"  alt="postgresql"  width="40"  height="40"/>
+&nbsp
+<img  src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="mongodb"  alt="mongodb"  width="40"  height="40"/>
+&nbsp
+<img  src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg"  title="fastapi"  alt="fastapi"  width="40"  height="40"/>
+&nbsp
+<img  src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"  title="flask"  alt="flask"  width="40"  height="40"/>
+&nbsp
+<img  src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  title="docker"  alt="docekr"  width="40"  height="40"/>
+&nbsp
+<img  src="
+https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"  title="graphql"  alt="graphql"  width="40"  height="40"/>
 &nbsp
 </div>
 
